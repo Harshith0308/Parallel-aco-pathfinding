@@ -109,7 +109,7 @@ This runs:
 python server.py
 ```
 
-Then open <http://localhost:5000>. You can set grid size, obstacle density,
+You can set grid size, obstacle density,
 ant/iteration counts, and ACO hyper-parameters (`alpha`, `beta`, `rho`), then
 watch the search converge live.
 
