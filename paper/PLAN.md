@@ -35,8 +35,7 @@ report — that framing is what makes it publishable given how well-studied ACO 
 - [x] Run full benchmark (145 rows) and regenerate figures
 - [x] Fill all *data-derived* `[[FILL]]` markers (platform, workload, speedups,
       Amdahl serial fraction, serialization overhead, quality trend)
-- [ ] Fill remaining `[[FILL]]` markers — your **author affiliation** (dept /
-      university / city) on lines 27–29 of `main.tex`
+- [x] Author affiliation filled (SRM University-AP, B.Tech CSE Cloud Computing)
 - [x] **Literature review** — Related Work written with 16 verified references
       (foundational ACO, ACO path planning, parallel/GPU ACO, performance models),
       all in `tex/refs.bib` with DOIs; matrix filled in `literature/`.
