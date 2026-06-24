@@ -20,6 +20,10 @@ ENV/
 *.out
 c_src/aco
 c_src/aco_demo
+paper/bench/aco_bench
+
+# ---- Logs ----
+*.log
 
 # ---- Editors / IDE / OS ----
 .vscode/

@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-06-24T17:40:53.930180+00:00",
+  "cpu": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+  "machine": "AMD64",
+  "logical_cores": 16,
+  "os": "Windows 10 (10.0.26200)",
+  "python": "3.11.9",
+  "numpy": "1.24.3",
+  "gcc": "gcc (Rev3, Built by MSYS2 project) 13.2.0"
+}
